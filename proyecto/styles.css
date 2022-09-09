@@ -201,4 +201,12 @@ img {
     position: fixed;
     right: 5em;
     top: 10em;
+    padding: 0.5em;
+    background-color: white;
+    color: rgb(183, 171, 109);
+}
+
+.count:hover {
+    background-color: rgb(183, 171, 109);
+    color: white;
 }
