@@ -188,3 +188,17 @@ select {
 h3 {
     color: rgb(140, 139, 98);
 }
+
+img {
+    position: fixed;
+    width: 200px;
+    height: 200px;
+    right: 5em;
+    bottom: 5em;
+}
+
+.count {
+    position: fixed;
+    right: 5em;
+    top: 10em;
+}
