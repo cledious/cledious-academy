@@ -196,6 +196,9 @@ img {
     right: 5em;
     bottom: 5em;
 }
+img:hover {
+    background-color: blanchedalmond;
+}
 
 .count {
     position: fixed;
